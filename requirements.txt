@@ -5,3 +5,4 @@ unstructured[pdf]
 chromadb
 tiktoken
 streamlit
+pysqlite3-binary
